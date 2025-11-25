@@ -1,7 +1,5 @@
 # Aula 01 – Introdução à Integração de Dados
 
-<!-- Comentário interno: Esta aula teve como foco apresentar a disciplina, introduzir conceitos fundamentais da integração de dados e realizar exercícios práticos com base em ficheiros e formulários online. -->
-
 ## 📌 Objetivos da Aula
 
 - Apresentar a disciplina: objetivos, organização e critérios de avaliação.  
