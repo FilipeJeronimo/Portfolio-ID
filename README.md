@@ -15,7 +15,7 @@ Cada pasta corresponde a uma aula e inclui:
 - Exercícios ou trabalhos práticos realizados durante a aula  
 
 Exemplo de estrutura de pastas:
-
+```
 /
 ├── Imagens/
 ├── Aula01/
@@ -27,14 +27,14 @@ Exemplo de estrutura de pastas:
 │ ├── Material/
 │ └── Exercicios/
 └── README.md
-
+```
 
 ---
 
 ## 📚 Aulas
 
-- **[Aula 01 – Introdução à Integração de Dados](./Aula01/README.md)**  
-- **[Aula 02 – Qualidade de Dados e Pré-processamento](./Aula02/README.md)**  
+- **[Aula 01 – Introdução à Integração de Dados](./2025-09%20-%20Setembro/README.md)**  
+- **[Aula 02 – Qualidade de Dados e Pré-processamento](./2025-16%20-%20Setembro/README.md)**  
 
 > Observação: cada link leva diretamente ao README da respectiva aula, que contém resumo, exercícios e materiais.
 
