@@ -35,8 +35,21 @@ Exemplo de estrutura de pastas:
 
 - [Aula 01 – Introdução à Integração de Dados](./2025-09-Setembro/09set/README.md)
 - [Aula 02 – Qualidade de Dados e Pré-processamento](./2025-90-Setembro/16set/README.md)
+- [Aula 03 - ETL e Python para Integração de Dados](./2025-09-Setembro/23set/README.md)
+- [Aula 04 - Revisão e Aplicação Prática de ETL com Python](./2025-09-Setembro/30set/README.md)
+- [Aula 05 - ??](./2025-10-Outubro/07out/README.md)
+- [Aula 06 - ??](./2025-10-Outubro/14out//README.md)
+- [Aula 07 - ??](./2025-10-Outubro/21out//README.md)
+- [Aula 08 - ??](./2025-10-Outubro/28out/README.md)
+- [Aula 09 - ??](./2025-11-Novembro/04nov/README.md)
+- [Aula 10 - ??](./2025-11-Novembro/11nov/README.md)
+- [Aula 11 - ??](./2025-11-Novembro/18nov/README.md)
+- [Aula 12 - ??](./2025-11-Novembro/25nov/README.md)
+- [Aula 13 - ??](./2025-12-Dezembro/02dez/README.md)
+- [Aula 14 - ??](./2025-12-Dezembro/09dez/README.md)
+- [Aula 15 - ??](./2025-12-Dezembro/16dez/README.md)
 
-> Observação: cada link leva diretamente ao README da respectiva aula, que contém resumo, exercícios e materiais.
+> Observação: cada link leva diretamente ao README da respetiva aula, que contém resumo, exercícios e materiais.
 
 ---
 
