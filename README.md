@@ -1,67 +1,51 @@
 # Portfólio Digital – Integração de Dados (CTeSP)
 
-Portfólio digital da unidade curricular **Integração de Dados**, do **CTeSP** do **Instituto Superior de Engenharia de Coimbra (ISEC)**, ano letivo **2025/2026**.
+Este portfólio reúne o trabalho desenvolvido na unidade curricular **Integração de Dados**, do **CTeSP** do **Instituto Superior de Engenharia de Coimbra (ISEC)**, ano letivo **2025/2026**.
 
-O objetivo deste repositório é **documentar**, **organizar** e **acompanhar** os materiais, exercícios e projetos desenvolvidos ao longo do semestre, garantindo um registo claro e acessível da evolução na UC.
+O repositório tem como objetivo organizar os materiais das aulas, os exercícios e os projetos, permitindo acompanhar de forma clara a evolução na unidade curricular.
 
----
+## Estrutura do Repositório
 
-## 📌 Estrutura do Repositório
+Cada pasta corresponde a uma aula e inclui:
 
-Cada diretório corresponde a uma aula e inclui:
+- **`README.md`** com um resumo dos conteúdos abordados
+- Material de apoio, como diapositivos, PDFs ou notas
+- Exercícios ou trabalhos práticos realizados durante a aula
 
-- **`README.md`** — resumo objetivo dos conteúdos abordados.
-- **Material de Aula** — diapositivos, PDFs e notas de apoio.
-- **Exercícios e Projetos** — código, modelos, diagramas ou outro trabalho prático.
-
----
-
-## 📚 Aulas
-
+## Aulas
 
 - **Aula 01** – Introdução à Integração de Dados  
 - **Aula 02** – Qualidade de Dados e Pré-processamento  
 
----
+## Objetivos do Portfólio
 
-## 🎯 Objetivos do Portfólio
+- Reunir todos os materiais da unidade curricular num único local  
+- Acompanhar o progresso ao longo do semestre  
+- Facilitar a consulta e a partilha com colegas e docentes
 
-- **Centralizar materiais** de forma organizada e consistente.  
-- **Registar o progresso** ao longo do semestre.  
-- **Facilitar a revisão**, consulta e partilha com docentes e colegas.
+## Tecnologias e Ferramentas Utilizadas
 
----
+- **Git e GitHub** para controlo de versão  
+- **GitHub Desktop** para facilitar commits e sincronização  
+- Ferramentas de edição como Word, Google Docs e editores de PDF  
+- **Python**, utilizado em processos ETL:
+  - extração de dados (CSV, APIs, bases de dados)
+  - transformação com *pandas*, *NumPy* e scripts próprios
+  - validação, limpeza e normalização
+  - carregamento para ficheiros estruturados ou bases de dados
 
-## 🛠 Tecnologias e Ferramentas Utilizadas
+## Sobre a Unidade Curricular
 
-- **Git e GitHub** — controlo de versão e armazenamento.
-- **GitHub Desktop** — fluxo simplificado de commits e sincronização.
-- **Ferramentas de edição** — Word, Google Docs, editores PDF.
-- **Python**, aplicado a processos **ETL**:
-  - extração de dados (CSV, APIs, bases de dados);
-  - transformação com *pandas*, *NumPy* e scripts próprios;
-  - validação, limpeza e normalização;
-  - carregamento para ficheiros estruturados ou bases de dados.
+A unidade curricular **Integração de Dados** aborda técnicas e metodologias para combinar, transformar e organizar dados de várias fontes. Entre os temas trabalhados estão:
 
----
-
-## 📘 Sobre a Unidade Curricular
-
-A UC **Integração de Dados** aborda técnicas e metodologias para combinar, transformar e organizar dados de diversas fontes.
-
-Temas principais:
-
-- Modelação e preparação de dados  
+- Preparação e modelação de dados  
 - Processos ETL (Extração, Transformação e Carga)  
 - Qualidade e limpeza de dados  
 - Construção de pipelines de integração  
-- Boas práticas na gestão e organização de dados  
+- Boas práticas na gestão e organização de dados
 
----
-
-## 🖼 Imagem
+## Imagem
 
 ![Integração de Dados](./Imagens/ID.png)
 
-**Fonte:**  
-https://pt.linkedin.com/pulse/integra%C3%A7%C3%B5es-de-dados-para-projetos-sap-qual-caminhos-paulo-brito-ruiz
+Fonte: [LinkedIn](https://pt.linkedin.com/pulse/integra%C3%A7%C3%B5es-de-dados-para-projetos-sap-qual-caminhos-paulo-brito-ruiz)
