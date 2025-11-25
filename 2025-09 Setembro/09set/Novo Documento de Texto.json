@@ -1,0 +1,8 @@
+1. 4
+2. id
+3. Marta ,João, Ana, Rui
+4. Ana, Marta, Rui
+6. SELECT nome, curso, nota
+FROM nome_da_tabela
+WHERE curso = 'TPSI'
+  AND nota > 10;
