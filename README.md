@@ -33,8 +33,8 @@ Exemplo de estrutura de pastas:
 
 ## 📚 Aulas
 
-- **[Aula 01 – Introdução à Integração de Dados](./2025-09%20Setembro/09set/README.md)**  
-- **[Aula 02 – Qualidade de Dados e Pré-processamento](./2025-16%20Setembro/16set/README.md)**  
+- **[Aula 01 – Introdução à Integração de Dados](./2025-09 Setembro/09set/README.md)**
+- **[Aula 02 – Qualidade de Dados e Pré-processamento](./2025-09 Setembro/16set/README.md)**
 
 > Observação: cada link leva diretamente ao README da respectiva aula, que contém resumo, exercícios e materiais.
 
