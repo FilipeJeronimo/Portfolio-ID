@@ -1,0 +1,12 @@
+id_cliente,nome,idade,email
+1,ana silva,25.0,ana.silva@gmail.com
+2,JOÃO PEREIRA,40.0,joao@
+2,JOÃO PEREIRA,40.0,joao@exemplo.com
+3,maria sousa,, maria_sousa@gmail.com 
+4,carlos,15.0,
+5,ines oliveira,29.0,ines@dominio.pt
+6,,120.0,cliente6#dominio.pt
+7,   ricardo costa,32.0,ricardo.costa@gmail.com
+8,sofia   ,18.0,sofia@@dominio.pt
+9,Paulo G,,paulo.g@mail
+10,fernando rocha,45.0,fernando.rocha@gmail.com

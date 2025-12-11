@@ -1,0 +1,5 @@
+id_cliente,nome,idade,email,email_valido
+1,Ana Silva,25.0,ana.silva@gmail.com,True
+5,Ines Oliveira,29.0,ines@dominio.pt,True
+7,   Ricardo Costa,32.0,ricardo.costa@gmail.com,True
+10,Fernando Rocha,45.0,fernando.rocha@gmail.com,True
