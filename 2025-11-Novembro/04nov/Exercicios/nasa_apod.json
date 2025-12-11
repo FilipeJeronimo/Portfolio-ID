@@ -1,0 +1,72 @@
+[
+{
+"date": "2025-11-04",
+"explanation": "Uma vista panorâmica da Nebulosa da Águia captada em múltiplos comprimentos de onda; destaca as colunas de gás onde nascem novas estrelas.",
+"media_type": "image",
+"title": "Colunas de Formação Estelar",
+"url": "https://apod.nasa.gov/apod/image/2511/eagle_nebula_panorama.jpg"
+},
+{
+"date": "2025-11-03",
+"explanation": "Um impacto brilhante observado na atmosfera de Júpiter; registado por um telescópio amador e confirmado por observações profissionais.",
+"media_type": "image",
+"title": "Brilho de Impacto em Júpiter",
+"url": "https://apod.nasa.gov/apod/image/2511/jupiter_impact_spot.jpg"
+},
+{
+"date": "2025-11-02",
+"explanation": "Sequência de imagens mostrando a aurora boreal em movimento sobre a Islândia, com estruturas ondulantes e cores intensas.",
+"media_type": "video",
+"title": "Dança da Aurora",
+"url": "https://apod.nasa.gov/apod/video/2511/aurora_timelapse.mp4"
+},
+{
+"date": "2025-11-01",
+"explanation": "Imagem de alta resolução do cratera Tycho na Lua, evidenciando sulcos e raios de ejecta muito bem preservados.",
+"media_type": "image",
+"title": "Tycho em Detalhe",
+"url": "https://apod.nasa.gov/apod/image/2511/tycho_crater_detail.jpg"
+},
+{
+"date": "2025-10-31",
+"explanation": "A Via Láctea sobre uma antiga ruína; a composição mostra a faixa galáctica a atravessar o céu noturno.",
+"media_type": "image",
+"title": "Via Láctea sobre Ruínas",
+"url": "https://apod.nasa.gov/apod/image/2510/milkyway_ruins.jpg"
+},
+{
+"date": "2025-10-30",
+"explanation": "Close-up de uma cometa capturada durante a aproximação periélio, com uma cauda de pó e uma cauda iónica visíveis.",
+"media_type": "image",
+"title": "Cometa em Aproximação",
+"url": "https://apod.nasa.gov/apod/image/2510/comet_closeup.jpg"
+},
+{
+"date": "2025-10-29",
+"explanation": "Um mosaico do planeta Marte mostrando variações de cor na superfície e nuvens finas ao pôr do sol marciano.",
+"media_type": "image",
+"title": "Pôr do Sol em Marte",
+"url": "https://apod.nasa.gov/apod/image/2510/mars_sunset_mosaic.jpg"
+},
+{
+"date": "2025-10-28",
+"explanation": "Um vídeo curto que mostra ondas de choque simuladas à volta de uma estrela massiva em fase final de evolução.",
+"media_type": "video",
+"title": "Ondas de Choque Estelares (simulação)",
+"url": "https://apod.nasa.gov/apod/video/2510/shockwaves_simulation.mp4"
+},
+{
+"date": "2025-10-27",
+"explanation": "Imagem do disco protoplanetário em volta de uma jovem estrela — estruturas anelares possivelmente associadas à formação de planetas.",
+"media_type": "image",
+"title": "Disco Protoplanetário com Anéis",
+"url": "https://apod.nasa.gov/apod/image/2510/protoplanetary_disk_rings.jpg"
+},
+{
+"date": "2025-10-26",
+"explanation": "Fotografia composta de um enxame globular onde se distinguem centenas de milhares de estrelas agrupadas num halo brilhante.",
+"media_type": "image",
+"title": "Enxame Globular em Detalhe",
+"url": "https://apod.nasa.gov/apod/image/2510/globular_cluster_detail.jpg"
+}
+]
