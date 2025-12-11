@@ -1,0 +1,9 @@
+ID_Venda,Produto,Quantidade,Preco_Unitario,Data_Venda,Cliente_Email
+1,Teclado,2,25.0,2024-01-10,cliente1@email.com
+2,Rato,1,15.5,2024-01-11,cliente2@email.com
+3,Monitor,1,150.0,2024-01-12,desconhecido@email.com
+4,Teclado,3,25.0,2024-01-10,cliente1@email.com
+5,Webcam,1,30.0,2024-01-13,cliente3@email.com
+6,Monitor,1,150.0,2024-01-12,cliente4@email.com
+7,Headphones,1,50.0,2024-01-14,cliente5@email.com
+8,Teclado,2,25.0,2024-01-10,cliente1@email.com
