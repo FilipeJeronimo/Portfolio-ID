@@ -1,0 +1,26 @@
+[
+    {
+        "id": "P001",
+        "nome": "Teclado",
+        "stock": 150,
+        "localizacao": "A1"
+    },
+    {
+        "id": "P002",
+        "nome": "Rato",
+        "stock": 200,
+        "localizacao": "A2"
+    },
+    {
+        "id": "P003",
+        "nome": "Monitor",
+        "stock": 50,
+        "localizacao": "B1"
+    },
+    {
+        "id": "P004",
+        "nome": "Webcam",
+        "stock": 80,
+        "localizacao": "B2"
+    }
+]
